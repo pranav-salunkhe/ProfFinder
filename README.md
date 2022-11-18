@@ -10,5 +10,8 @@
   
 + ### Run on Android Studio or your own emulator through USB Debugging
 
+# Tech Stack Used
++ ### Java
++ ### Firebase - For user authentication
 
 >This application was developed as a mini project for course evaluation at NITK.
