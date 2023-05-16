@@ -14,4 +14,3 @@
 + ### Java
 + ### Firebase - For user authentication
 
->This application was developed as a mini project for course evaluation at NITK.
